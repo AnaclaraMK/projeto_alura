@@ -1,0 +1,20 @@
+body {
+    color: #ab3737;
+    background: #fff2e3;
+    margin: 0px;
+    font-family: Georgia, 'Times New Roman', Times, serifs;
+}
+
+header {
+    border-bottom: solid 2px rgb(255, 255, 255);
+    padding: 20px;
+    font-size: 32px;
+    color: #ab3737;
+}
+
+section{
+     background-color: #bb6868 ;
+     padding-bottom: 80px;
+     padding-top: 80px;
+    
+}
